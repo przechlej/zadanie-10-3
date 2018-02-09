@@ -1,0 +1,19 @@
+#carousel {
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  overflow: hidden;
+}
+
+#carousel ul {
+  display: block;
+  padding: 0;
+  list-style: none;
+  width: 2000px;
+  float: left;
+}
+#carousel ul li {
+  display: inline-block
+  height: 300px;
+  width: 400px;
+}
